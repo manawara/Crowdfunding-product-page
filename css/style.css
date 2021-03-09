@@ -364,13 +364,14 @@ input {
 }
 
 .pledge-input {
-  padding: 20px;
+  padding: 20px 0 20px 38px;
   border-radius: 20px;
   color: #000;
   border: 1px solid var(--dark-gray-color);
   width: 100px;
   margin-right: 30px;
   font-weight: 700;
+  font-size: 1.6rem;
 }
 
 .modal input[type="radio"] {
